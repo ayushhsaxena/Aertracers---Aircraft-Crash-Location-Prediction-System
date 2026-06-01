@@ -1,7 +1,7 @@
 # ✈️ AEROTRACER: Aircraft Crash Prediction System
 
 ## 📌 Overview
-AEROTRACER is a **Python + JavaScript + HTML/CSS powered crash prediction website** that takes the **last known flight data** and marks potential crash zones on a world map.  
+AEROTRACE is a **Python + JavaScript + HTML/CSS powered crash prediction website** that takes the **last known flight data** and marks potential crash zones on a world map.  
 It leverages **XGBoost (wrapped in MultiOutputRegressor)** to predict latitude and longitude shifts, achieving **90–95% accuracy**, and in some cases up to **99%**.
 
 This project is designed for **Search and Rescue (SAR)** operations, where rapid localization of wreckage is critical.
